@@ -1,2 +1,2 @@
-All notes  are stored in github
+All notes  are stored in GitHub
 
