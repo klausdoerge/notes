@@ -14,5 +14,8 @@ Hardware requirements
 - Ipad or Android tablet
 
 
+Playcanvas AR
+Currently this is only supported on Android devices
+
 Linak showroom link
 [LINAK Virtual Showroom - Surgery theatre](https://www.linak.com/showroom/?lang=en#/scene/1385/2784/2825/2826/2805:2964)
