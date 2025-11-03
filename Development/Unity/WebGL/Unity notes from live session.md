@@ -1,7 +1,7 @@
 gamma hurtigere
 linear bedre
 
-Husk billede og texture-compressio
+Husk billede og texture-compression
 
 Unity 6.2 brug auto-lod på modeler
 
