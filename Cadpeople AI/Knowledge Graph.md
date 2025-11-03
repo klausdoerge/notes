@@ -1,0 +1,1 @@
+A **Knowledge Graph (KG)** is a structured representation of information where entities (e.g., concepts, people, topics) are nodes, and their relationships are edges. It organizes knowledge in a way that machines can understand and reason about, enabling semantic connections between concepts rather than just keyword matching.
