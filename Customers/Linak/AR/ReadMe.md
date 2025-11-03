@@ -6,7 +6,7 @@ They have a poster on which they want to augment 2D or 3D elements onto when a g
 
 Developer access
 We have a developer account at Apple, but are unable to deploy enterprise apps. The clients need to create the certificates we need to complete this step. 
-- Linak to provide certificates
+- Linak to provide certificates (how?)
 - Cadpeople to understand and document the flow of the creation process
 
 WebXR
@@ -19,7 +19,7 @@ Hardware requirements
 
 Estimates
 1-2 days for apple setup
-4-7 days for development of AR solution
+2-3 days for development of simple AR solution
 
 Unity
 AR Foundation - Image tracking
