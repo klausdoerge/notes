@@ -1,3 +1,3 @@
 Ørsted projects
 
-[[Changelog]] Walk to work
+[[WalkToWork VR/Changelog]] Walk to work
