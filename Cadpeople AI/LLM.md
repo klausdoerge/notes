@@ -4,6 +4,6 @@ Pretrained model (foundation model)
 Generic training on a large amount of unlabelled data. This is a huge mix of books, Wikipedia, articles, code etc.
 
 Finetuning
-Adding specific and labelled data to the dataset to enable the LLM to obtain domain-specific understanding.
+Adding specific and labelled data to the pretrained dataset to finetune the LLM to obtain domain-specific understanding.
 
-This could be a huge amount of e-mails where the spam-mails are tagged and categorized to create a spam-filter AI agent.
+This could be a huge amount of e-mails where the spam/no-spam mails are tagged and categorized to create a spam-filter AI agent.
