@@ -20,6 +20,7 @@ WebAPI update and monitoring
 - Create an overview for sales regarding upgrading which details the required effort (estimated cost of upgrading)
 	- WebAPI upgrading for OWASP
 	- WebAPI and Umbraco 13 upgrading for OWASP
+- Update to managed identity for all services requiring role access to solutions
 
 
 **Notes**
