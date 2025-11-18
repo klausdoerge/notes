@@ -6,13 +6,13 @@ Risk hardening notes from meeting 18/11-2025
 
 WAF – get help from externals to add it to all solutions?
 
-Auditlogs for SQL database
+Audit logs for SQL database
 
 **Development security**
 
 WebAPI update and monitoring
 
-- Merging the OWASP version of the API into the main branch
+- Merging the OWASP version of the API into the main branch
 
 **Tasks**
 
