@@ -21,7 +21,8 @@ WebAPI update and monitoring
 	- WebAPI upgrading for OWASP
 	- WebAPI and Umbraco 13 upgrading for OWASP
 - Update to managed identity for all services requiring role access to solutions
-- Logging/Analytics requirements for Azure solutions. How do we setup App Insights with minimal logs for uptime, memory, processing reports.
+- Logging/Analytics requirements for Azure solutions. How do we setup App Insights with minimal logs for uptime, memory, processing reports. We should also consider prices for the App insights
+- Coralogix - do we still have access?
 
 
 **Notes**
