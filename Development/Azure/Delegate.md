@@ -6,3 +6,9 @@ Can we use WAP, can we create a common WAP for all clients or is this done pr. s
 SQL Audit
 We want audit  enabled on our SQL databases, but not for every single task as this generates endless amount of data. Can we configure it to only contain sign-in/out of the databases and Umbraco?
 
+Dashboards
+Setting up the right permissions and measurements across subscriptions and solutions
+
+- Uptime
+- Errors
+- Activity
