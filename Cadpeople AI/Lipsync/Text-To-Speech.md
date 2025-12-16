@@ -10,3 +10,5 @@ Dansk
 c# alternative
 [GitHub - Lyrcaxis/KokoroSharp: Fast local TTS inference engine in C# with ONNX runtime. Multi-speaker, multi-platform and multilingual. Integrate on your .NET projects using a plug-and-play NuGet package, complete with all voices.](https://github.com/Lyrcaxis/KokoroSharp)
 
+ElevenLabs Unity Plugin
+[GitHub - RageAgainstThePixel/com.rest.elevenlabs: A non-official Eleven Labs voice synthesis client for Unity (UPM)](https://github.com/RageAgainstThePixel/com.rest.elevenlabs#documentation)
