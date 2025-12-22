@@ -17,3 +17,7 @@ List of users who should do support tasks?
 Client contacts to reach out to when performing support & maintenance
 
 How to request service-window for performing updates
+
+History for changes in the project to help support
+
+App Service Plan details
