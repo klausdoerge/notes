@@ -21,3 +21,7 @@ How to request service-window for performing updates
 History for changes in the project to help support
 
 App Service Plan details
+
+Link to git repos
+
+Extract latest commits and update wiki?
