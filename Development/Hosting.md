@@ -25,3 +25,10 @@ App Service Plan details
 Link to git repos
 
 Extract latest commits and update wiki?
+
+**Notes**
+
+==ARLA==
+afiscreensynctest.azurewebsites.net is created in shared resource group, no idea what it does and if it should keep running.
+
+
