@@ -14,3 +14,9 @@ Services
 - LLM
 - User-store?
 
+Problem
+The LLM need to know a lot of facts about the company to help guide the conversation.
+- Maybe the LLM provides a list of options with an expected saving for each, so that the players can base their decisions on these facts, without having to know where the data comes from.
+
+
+
