@@ -16,7 +16,7 @@ Create a todo-list of any security issues that might be reported.
 
 Can intruder test if our sso integration is secure?
 
-Hosting insights
+Hosting App Insights
 
 app:
     Uptime

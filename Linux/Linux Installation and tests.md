@@ -1,4 +1,5 @@
-Linux installation
+
+**installation**
 
 VS Code + AI (brug cp konto)
 Net core
@@ -24,7 +25,7 @@ Docker
 - MSSql
 
 
-DONE
+**DONE**
 Audacity
 Spotify
 Obsidian
