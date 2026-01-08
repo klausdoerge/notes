@@ -24,8 +24,6 @@ Docker
 - Postgres
 - MSSql
 
-
-**DONE**
 Audacity
 Spotify
 Obsidian
@@ -37,6 +35,9 @@ Handbrake
 Blender
 Firefox
 GIT håndtering - evt. bare CLI
+
+
+**DONE**
 
 
 
