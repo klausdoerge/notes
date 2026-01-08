@@ -24,6 +24,10 @@ app:
     Performance
     Is it possible to gain insight/analytics on amount of users etc?
 
+cdn:
+	Securing CDN with SSO possible?
+	Possible to ony allow requests from specific domains
+
 sql:
     Audit logs
 
