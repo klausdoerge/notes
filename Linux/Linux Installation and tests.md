@@ -1,11 +1,6 @@
 
 **installation**
 
-**First**
-See if theme can help the UI
-PIA
-Unity Hub
-
 VS Code + AI (brug cp konto)
 Net core
 
@@ -30,20 +25,26 @@ Docker
 - Umbraco 17?
 
 Audacity
-Spotify
+
 Obsidian
-Brave
+
 Thunderbird
-Python
+
 FileZilla
 Handbrake
-Blender
-Firefox
+
+
 GIT håndtering - evt. bare CLI
 
 
 **DONE**
-
+PIA
+Unity Hub
+Spotify
+Blender
+Firefox
+Brave
+Python
 
 
 Efter installation
