@@ -1,12 +1,16 @@
 
 **installation**
 
+**First**
+See if theme can help the UI
+PIA
+Unity Hub
+
 VS Code + AI (brug cp konto)
 Net core
 
 Affinity
 
-PIA
 Cadpeople VPN?
 Vite -g
 
@@ -16,13 +20,14 @@ Chrome
 
 Kan der sættes en GIT server op på Nas og så slet GitHub konto? Alternativt en EU løsning (husk kun private projekter)
 
-Unity Hub
+
 Test Rider
 
 Docker
 - Ollama
 - Postgres
 - MSSql
+- Umbraco 17?
 
 Audacity
 Spotify
