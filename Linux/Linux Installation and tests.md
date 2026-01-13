@@ -1,11 +1,7 @@
 
 **installation**
 
-VS Code + AI (brug cp konto)
 Net core
-
-Affinity
-
 Cadpeople VPN?
 Vite -g
 
@@ -14,7 +10,6 @@ Hvordan håndteres typescript bedst?
 Chrome
 
 Kan der sættes en GIT server op på Nas og så slet GitHub konto? Alternativt en EU løsning (husk kun private projekter)
-
 
 Test Rider
 
@@ -25,12 +20,15 @@ Docker
 - Umbraco 17?
 
 Audacity
+<<<<<<< HEAD
 
 
 
 Thunderbird
 
 
+=======
+>>>>>>> origin/main
 Handbrake
 
 
@@ -39,6 +37,7 @@ GIT håndtering - evt. bare CLI
 
 **DONE**
 PIA
+FileZilla
 Unity Hub
 Spotify
 Blender
@@ -46,8 +45,13 @@ Firefox
 Brave
 Python
 Obsidian
+<<<<<<< HEAD
 FileZilla
 
+=======
+Thunderbird
+VS Code + AI (brug cp konto)
+>>>>>>> origin/main
 
 
 Efter installation
