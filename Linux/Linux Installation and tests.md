@@ -26,11 +26,11 @@ Docker
 
 Audacity
 
-Obsidian
+
 
 Thunderbird
 
-FileZilla
+
 Handbrake
 
 
@@ -45,6 +45,9 @@ Blender
 Firefox
 Brave
 Python
+Obsidian
+FileZilla
+
 
 
 Efter installation
