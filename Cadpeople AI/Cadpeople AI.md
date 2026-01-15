@@ -12,3 +12,5 @@ The RAG (Retrieval Augmented Generation) is used for storing new data which is a
 
 [[LLM]]
 Various LLMs have been tested for local installation.
+
+https://www.youtube.com/watch?v=NKnZYvZA7w4
