@@ -7,3 +7,9 @@ TODO:
 - Paneler m.v. - skal de ud af angular og over i det nye? Evt. vanilla, så vi ikke er afhænginge af ændringer i Umbraco.
 
 https://github.com/limbo-works/Limbo.Umbraco.MigrationsApi/blob/v8/main/src/Limbo.Umbraco.MigrationsApi/MigrationsController.cs#L415
+
+Easy Workspace Views
+https://github.com/jcdcdev/Umbraco.Community.SimpleWorkspaceViews/blob/v15/docs/examples.md
+
+Might be ok to use this, as we only have the publish panel currently
+
