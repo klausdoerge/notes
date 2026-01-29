@@ -13,3 +13,5 @@ https://github.com/jcdcdev/Umbraco.Community.SimpleWorkspaceViews/blob/v15/docs/
 
 Might be ok to use this, as we only have the publish panel currently
 
+![[Pasted image 20260129142309.png]]
+![[Pasted image 20260129142326.png]]
