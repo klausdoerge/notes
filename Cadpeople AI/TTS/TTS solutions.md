@@ -13,4 +13,3 @@
 Kitten TTS
 [GitHub - devnen/Kitten-TTS-Server: Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.](https://github.com/devnen/Kitten-TTS-Server)
 
-½
