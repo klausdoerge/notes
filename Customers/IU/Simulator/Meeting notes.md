@@ -9,8 +9,11 @@ Gennemgang af brugerflow fra oprettelse, kurser og nedlæggelse af konti
 - Glemt passwords m.v. - kommer brugerne igen?
 
 Actions:
-- Discuss simplest solution for IU based on webapi baseline. Could we make a system without chaning the existing code?
+- Discuss simplest solution for IU based on webapi baseline. Could we make a system without changing the existing code?
 - Simple tracking using LearnLog?
+
+Anonymizing logins after use/x-months
+OTP support?
 
 
 **Hosting**
