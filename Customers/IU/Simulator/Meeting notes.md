@@ -1,4 +1,7 @@
 
+26-02-2026
+It is agreed with the client to only use GA to track users and progress. No backend services required specially for this solution.
+
 29-01-2026
 
 Gennemgang af brugerflow fra oprettelse, kurser og nedlæggelse af konti
