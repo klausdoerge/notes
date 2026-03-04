@@ -1,0 +1,13 @@
+
+**Start-command**
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+
+
+**Updating to the latest version of webui**
+
+docker stop open-webui
+docker rm open-webui
+
+docker pull ghcr.io/open-webui/open-webui:main
+
+Restart docker container with start command
