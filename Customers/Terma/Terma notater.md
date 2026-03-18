@@ -7,7 +7,7 @@ Status
 - AD er endnu ikke færdig
 
 Timer
-* 165 rest til udvikling
+* 165 rest til udvikling (18-03-2026)
 
 Deadline
 - Der er ingen fast deadline på projektet, men vi vil gerne rykke på det, og levere så hurtigt vi kan
@@ -23,5 +23,5 @@ Estimater
 TODO:
 - Lav et Trello-board sammen med Søren
 - Lav estimater på time to completion
-- 
+- Afklaring om animationer - hvordan og hvor meget/detaljeret skal det være
 
