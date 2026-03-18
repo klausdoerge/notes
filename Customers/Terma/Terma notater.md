@@ -13,10 +13,15 @@ Deadline
 - Der er ingen fast deadline på projektet, men vi vil gerne rykke på det, og levere så hurtigt vi kan
 
 Target platform
-Hvordan skal det leveres
-Tidsplan for test og leverancer
+* Website modul (iframes i confluence)
+* Brug review server
+* Ambitionen i fremtiden kunne være, at få det integreret ind i noget LMS
+
+
 Estimater
 
 TODO:
-Lav et Trello-board sammen med Søren
+- Lav et Trello-board sammen med Søren
+- Lav estimater på time to completion
+- 
 
