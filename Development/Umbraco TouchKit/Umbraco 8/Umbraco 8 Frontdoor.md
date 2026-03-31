@@ -32,3 +32,35 @@ Todo:
 VirtuelCadpeople kører version 1.0.8 som skal kunne purge en frontdoor CDN.
 - Fix purge
 - Afklaring om version 1..0.9 kunne være en mulig opgradering, eller om det er bedre bare kopiere koden til Frontdoor ind i de forskellige versioner, så der ikke sker ændringer i publiceringen på eksisterende løsnigner
+
+
+Test
+* Test om en purge af 1 domæne også har indflydelse på de andre, så længe der kun er 1 endpoint
+
+Flow
+
+Prereq:
+- Contributer and User-Access Admin permissions on subscript
+
+Umbraco 13.x update
+1) Backup solution (umbraco, storage, database)
+2) Migrate CDN
+3) Update SQL
+
+ALTER ROLE db_ddladmin ADD MEMBER [THE_DATABASE_USERNAME];
+
+ALTER TABLE umbracoRedirectUrl WITH NOCHECK  
+ADD CONSTRAINT FK_umbracoRedirectUrl_umbracoNode_uniqueID CHECK (contentKey <> '') ;
+
+ALTER TABLE umbracoNode  
+DROP CONSTRAINT IX_umbracoNode_UniqueId
+
+
+1) Fix Umbraco config and upload bin, app_plugins, config  folder
+	1) Check if mime-types need updates as well
+2) Add FrontdoorPurgeFunction permissions - CDN Endpoint Contributor &   
+CDN Profile Contributor on cdn
+	
+3) restart  umbraco to refresh credentials
+4) Test publish function
+5) Delete App Registration when publish by function works
