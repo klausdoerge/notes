@@ -17,6 +17,9 @@ VirtuelCadpeople kører version 1.0.8 som skal kunne purge en frontdoor CDN.
 - Afklaring om version 1..0.9 kunne være en mulig opgradering, eller om det er bedre bare kopiere koden til Frontdoor ind i de forskellige versioner, så der ikke sker ændringer i publiceringen på eksisterende løsnigner
 
 
+Test
+* Test om en purge af 1 domæne også har indflydelse på de andre, så længe der kun er 1 endpoint
+
 Flow
 
 Prereq:
