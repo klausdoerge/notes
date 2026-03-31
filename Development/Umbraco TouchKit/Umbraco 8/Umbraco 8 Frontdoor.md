@@ -39,7 +39,7 @@ DROP CONSTRAINT IX_umbracoNode_UniqueId
 1) Fix Umbraco config and upload bin, app_plugins, config  folder
 	1) Check if mime-types need updates as well
 2) Add FrontdoorPurgeFunction permissions - CDN Endpoint Contributor &   
-CDN Profile Contributor
+CDN Profile Contributor on cdn
 	
 3) restart  umbraco to refresh credentials
 4) Test publish function
