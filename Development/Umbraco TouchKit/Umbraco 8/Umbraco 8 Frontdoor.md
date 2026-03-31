@@ -26,11 +26,17 @@ Umbraco 13.x update
 1) Backup solution (umbraco, storage, database)
 2) Migrate CDN
 3) Update SQL
-	1) ALTER TABLE umbracoRedirectUrl WITH NOCHECK  
+
+ALTER ROLE db_ddladmin ADD MEMBER [THE_DATABASE_USERNAME];
+
+ALTER TABLE umbracoRedirectUrl WITH NOCHECK  
 ADD CONSTRAINT FK_umbracoRedirectUrl_umbracoNode_uniqueID CHECK (contentKey <> '') ;
 
 ALTER TABLE umbracoNode  
 DROP CONSTRAINT IX_umbracoNode_UniqueId
-1) Fix Umbraco config and upload bin folder
+
+
+1) Fix Umbraco config and upload bin, app_plugins, config  folder
 2) Add FrontdoorPurgeFunction permissions - CDN PRofile contributer
-3) Delete App Registration when publish by function works
+3) Test publish function
+4) Delete App Registration when publish by function works
