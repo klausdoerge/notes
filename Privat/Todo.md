@@ -1,0 +1,5 @@
+- Fix BOB
+- Ring til Einer Hessel vedr. vinduer og frunk
+- Ring til elektriker vedr ny HPFI panel
+- Fix Hugos bord
+- Coldhand Winery - ring og hør vedr. overnatning og  mad
