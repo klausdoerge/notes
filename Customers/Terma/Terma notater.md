@@ -1,5 +1,8 @@
 
 
+TODO:
+- Der skal findes en god løsning på, hvordan renders tændes igen, når man skal montere de forskellige elementer igen. 
+
 
 Status
 
