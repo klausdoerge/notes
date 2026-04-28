@@ -2,13 +2,18 @@
 Chevron IT meeting
 
 **AI**
-- Open AI / ChatGPT is approved (AI Foundary)
+- Open AI / ChatGPT is approved (AI Foundry)
 - Claude is used currently with MS
-- No Gemini/Deepseek
+- No Gemini/Deep seek
+- Chevron hosts the LLM (Open AI)
+	- We must provide an estimate on how much AI we need to use
+	- Use Azure TTS and STT (multi-language)
+	- Fallback systems should be considered
+	- Support multiple roles - roles should be defined in the LLM backend, so frontend can communicate with a role, not a AI model
 
 How:
 - How can we implement a RAG for the open ai stuff
-- CREDO - we should create a quartely review of the usage and responses (media, text etc) from the LLMs
+- CREDO - we should create a quarterly review of the usage and responses (media, text etc) from the LLMs
 
 ## **CREDO for Responsible AI Usage**
 
