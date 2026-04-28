@@ -13,3 +13,6 @@ The role interface will ensure that the end prompt is optimally formatted and ha
 
 LLM Manager
 We will implement OpenAI for this project. However, the AI LLMs are moving fast and we must ensure that we can support multiple formats. The LLM manager will be able to format the data to a set of selected vendors and is extendible for further formats if needed.
+
+Redis cache
+All messages are vectorized and stored in a redis cache. When a user asks a common question the api will fetch the last response using similarity search from the cache instead of using the LLM for identical questions which will cut cost of the LLM. 
