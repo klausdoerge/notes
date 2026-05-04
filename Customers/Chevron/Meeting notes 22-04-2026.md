@@ -1,4 +1,6 @@
 
+[Miro](https://miro.com/app/board/uXjVG2DqeS0=/)
+
 Chevron IT meeting
 
 **AI**
