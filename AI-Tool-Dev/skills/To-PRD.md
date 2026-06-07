@@ -5,7 +5,7 @@ description: Turn the current conversation context into a PRD and publish it to 
 
 This skill takes the current conversation context and codebase understanding and produces a PRD. Do NOT interview the user — just synthesize what you already know.
 
-The issue tracker and triage label vocabulary should have been provided to you — run `/setup-matt-pocock-skills` if not.
+Store all issues as files in the ./prd folder
 
 ## Process
 
@@ -15,7 +15,7 @@ The issue tracker and triage label vocabulary should have been provided to you �
 
 Check with the user that these seams match their expectations.
 
-3. Write the PRD using the template below, then publish it to the project issue tracker. Apply the `ready-for-agent` triage label - no need for additional triage.
+3. Write the PRD using the template below, then publish it to the project issue tracker in the local file system. Apply the `ready-for-agent` triage label - no need for additional triage.
 
 <prd-template>
 
@@ -71,4 +71,4 @@ A description of the things that are out of scope for this PRD.
 
 Any further notes about the feature.
 
-</prd-template>
+</prd-template>he issue tracker and triage label vocabulary should have been provided to you — run ￼￼/setup-matt-pocock-skills￼￼ if not.

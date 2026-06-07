@@ -37,6 +37,9 @@ Existing available projects and their documentation should be available, so the 
 There should probably be separate projects for front end and back end development, so we do not overload the context window.
 
 ### Grill-Me
+See the grill-me in skills
+This should be extended, so that the AI will write a report of all questions and answers, so we can keep track of the session. 
+If a user stops a session, it should be possible to resume at a later state as well
 
 ### To-PRD
 
