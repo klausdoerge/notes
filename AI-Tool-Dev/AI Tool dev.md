@@ -1,7 +1,7 @@
 # Overview of spec tool
 
   
-
+https://github.com/mattpocock/skills/blob/main/skills/
 ## Purpose
 
 The purpose of the tool is to help planning of technical projects as well as breaking down the project into actionable tasks, which the AI can implement.
