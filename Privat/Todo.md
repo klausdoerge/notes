@@ -3,3 +3,7 @@
 - Ring til elektriker vedr ny HPFI panel
 - Fix Hugos bord
 - Coldhand Winery - ring og hør vedr. overnatning og  mad
+- Fix tagrender - kik på overdækket, den virker helt utæt i midten
+- Fix bob fliser m.v. så den ikke går i stå hele tiden
+- Myrer
+- 
